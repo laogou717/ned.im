@@ -23,7 +23,13 @@
 - ![音乐组件1](https://github.com/user-attachments/assets/bdf0795d-af98-45be-ac30-75172a98d430)![音乐组件2](https://github.com/user-attachments/assets/052bfdc3-5e9b-4a7c-b8a6-5b99fcd4697a)!
 - ![音乐组件3](https://github.com/user-attachments/assets/d3cc1c72-3a3c-44df-a591-a90e0e152e1f)![音乐组件4](https://github.com/user-attachments/assets/55a96341-11eb-4d2e-bab1-5a00e18bda60)
   
+## 部署
 
-
-
-  
+- 如果你要是想本地部署的话我看你是想吃红豆了 😡
+- 克隆仓库到你的账号下
+  [点我克隆仓库](https://github.com/laogou717/ned.im/fork)
+- `vercel` 是这一切的基础 如果你还没注册的话 。  还在看 说的就是你 快去注册！
+- 注册链接是这个 https://vercel.com/new
+- 我想你应该注册好了 接下来你会在仪表板那里看到让你授权 `vercel app` `GITHUB` 访问你账号下的仓库。授权即可
+> [!WARNING]
+> 如果你不想让`vercel GITHUB app`访问你的其他仓库的话你可以设置仅对此仓库进行授权
